@@ -1,0 +1,7 @@
+# virtualenv
+venv/
+
+# ideavim
+.idea
+
+standard_transactions.csv
